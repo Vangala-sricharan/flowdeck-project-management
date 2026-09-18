@@ -1,0 +1,6 @@
+{
+  "name": "FLOWDECK",
+  "description": "Premium project management and team collaboration platform. Plan. Collaborate. Deliver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
